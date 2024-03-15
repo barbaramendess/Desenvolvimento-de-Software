@@ -1,0 +1,30 @@
+.quadra{
+    border: 3px solid rgb(239, 169, 169);
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    background-color: violet;
+    position: absolute;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, serif;
+}
+
+.quadrado2{
+    
+    right: 0px;
+    bottom: 0px;
+    background-color: pink;
+}
+
+.quadrado3{
+    
+    left: 0px;
+    bottom: 0px;
+    background-color: rgb(255, 120, 142);
+}
+
+.quadrado4{
+    
+    right: 0px;
+    top: 0px;
+    background-color: rgb(254, 116, 139);
+}
